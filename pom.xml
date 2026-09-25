@@ -6,7 +6,7 @@
   <groupId>io.github.soprasteria</groupId>
   <artifactId>wsq4j</artifactId>
   <name>wsq4j</name>
-  <version>0.1-SNAPSHOT</version>
+  <version>1.0</version>
   <description>
     Java library for decoding, encoding WSQ images.
   </description>
