@@ -30,10 +30,10 @@
     <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
     <project.reporting.outputEncoding>UTF-8</project.reporting.outputEncoding>
     <mavenCentralAutoReleaseAfterClose>false</mavenCentralAutoReleaseAfterClose>
-    <lombok.version>1.18.46</lombok.version>
+    <lombok.version>1.18.48</lombok.version>
     <assertj.version>3.27.7</assertj.version>
     <junit.version>6.1.3</junit.version>
-    <mockito-core.version>5.23.0</mockito-core.version>
+    <mockito-core.version>5.24.0</mockito-core.version>
     <wsq-sf-id>${env.WSQ_SF_ID}</wsq-sf-id>
     <wsq-comment>wsq4j ${project.version}</wsq-comment>
   </properties>
@@ -182,12 +182,12 @@
     <dependency>
       <groupId>org.slf4j</groupId>
       <artifactId>slf4j-api</artifactId>
-      <version>2.0.18</version>
+      <version>2.0.20</version>
     </dependency>
     <dependency>
       <groupId>ch.qos.logback</groupId>
       <artifactId>logback-classic</artifactId>
-      <version>1.6.3</version>
+      <version>1.6.4</version>
       <scope>test</scope>
     </dependency>
     <dependency>
@@ -210,7 +210,7 @@
     <dependency>
       <groupId>com.twelvemonkeys.imageio</groupId>
       <artifactId>imageio-pnm</artifactId>
-      <version>3.14.0</version>
+      <version>3.15.2</version>
       <scope>test</scope>
     </dependency>
     <dependency>
@@ -222,7 +222,7 @@
     <dependency>
       <groupId>com.github.oshi</groupId>
       <artifactId>oshi-core</artifactId>
-      <version>7.6.0</version>
+      <version>7.6.1</version>
       <scope>test</scope>
     </dependency>
   </dependencies>
