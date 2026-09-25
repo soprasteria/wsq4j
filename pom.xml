@@ -5,10 +5,12 @@
   <modelVersion>4.0.0</modelVersion>
   <groupId>io.github.soprasteria</groupId>
   <artifactId>wsq4j</artifactId>
+  <name>wsq4j</name>
   <version>0.1-SNAPSHOT</version>
   <description>
     Java library for decoding, encoding WSQ images.
   </description>
+  <url>https://github.com/soprasteria/wsq4j</url>
   <inceptionYear>2025</inceptionYear>
 
   <organization>
