@@ -1,0 +1,12 @@
+wsq4j
+Copyright 2026 Sopra Steria Group.
+
+This software is distributed under the Apache Software License (ASL) v2.0,
+see LICENSE file or http://www.apache.org/licenses/LICENSE-2.0 for details.
+
+wsq4j depends on or includes source code from the following third-party software:
+
+NBIS: image tools implementation for biometrics purpose
+Copyright (c) 2007-2015 National Institute of Standards and Technology (NIST)
+Website: https://github.com/lessandro/nbis
+License: software is not subject to copyright protection and is in the public domain.
